@@ -1,4 +1,4 @@
-vercel link:
+Acessar aplicação pelo link vercel: https://kenzie-hub-zeta-blush.vercel.app
 
 
 # Getting Started with Create React App
